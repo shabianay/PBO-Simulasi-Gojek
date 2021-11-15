@@ -5,7 +5,7 @@ public class ngofood {
 
     String nama;
     int harga,total;
-    int ongkir = 2000;
+    int ongkir = 5000;
     
     ngofood(String nama1,int harga1){
       this.nama =nama1;
